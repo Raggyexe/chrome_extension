@@ -1,7 +1,8 @@
 {
-	"name": "Plain Text Copy And Paste",
+	"name": "Snake",
 	"version": "1.1.0",
-	"description": "Removes formatting from copied text.",
+	"manifest_version":2,
+	"description": "The best chrome popup Snake game!",
 	"content_scripts": [
 		{
 	  		"matches": ["<all_urls>"],
